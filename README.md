@@ -1,4 +1,4 @@
-# Feather
+# Feather1
 
 [![Coverage](https://img.shields.io/codecov/c/github/feathericons/feather/master.svg?style=flat-square)](https://codecov.io/gh/feathericons/feather)
 [![npm downloads](https://img.shields.io/npm/dm/feather-icons.svg?style=flat-square)](https://www.npmjs.com/package/feather-icons)
